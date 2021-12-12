@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjadhav" alt="ankitjadhav" /></a> </p>
 
 
-- 📫 How to reach me **ankitjadhavpatil@gmail.com**
+- 📫 HOW TO REACH ME **ankitjadhavpatil@gmail.com**
 
-<h3 img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16629781-Logo-Animation-for-Engineerx">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
