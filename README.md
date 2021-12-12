@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AnkitJadhav</h1>
-<h3 align="center">CS STUDENT WHO LOVES TO EXPLORE AND IMPROVE.</h3>
+<h3 align="center">CRAZY GUY WITH BRILLIANT BRAIN.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjadhav" /> </p>
 
