@@ -1,14 +1,13 @@
+<p align="left"> <img src="https://i.gifer.com/origin/a0/a0958b9098dccccfa8fb4f67c0052692_w200.webp" alt="ankitjadhav"  / p align="left"> <img src="https://i.gifer.com/origin/a0/a0958b9098dccccfa8fb4f67c0052692_w200.webp" alt="ankitjadhav"/p align="left"> <img src="https://i.gifer.com/origin/a0/a0958b9098dccccfa8fb4f67c0052692_w200.webp" alt="ankitjadhav"/ p align="left"> <img src="https://i.gifer.com/origin/a0/a0958b9098dccccfa8fb4f67c0052692_w200.webp" alt="ankitjadhav"/> </p>
 <h1 align="center">Hi 👋, I'm AnkitJadhav</h1>
-<h3 align="center">CRAZY GUY WITH BRILLIANT BRAIN.</h3>
+<h3 align="center">CRAZY GUY WITH BRILLIANT BRAIN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjadhav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjadhav" alt="ankitjadhav" /></a> </p>
 
-
-- 📫 HOW TO REACH ME **ankitjadhavpatil@gmail.com**
-
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
+- 📫 How to reach me **ankitjadhavpatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
