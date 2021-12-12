@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjadhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjadhav" alt="ankitjadhav" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjadhav" alt="ankitjadhav" /></a> </p> -->
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
 - 📫 How to reach me **ankitjadhavpatil@gmail.com**
